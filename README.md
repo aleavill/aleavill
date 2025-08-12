@@ -6,7 +6,7 @@ Me chamo Alessandra, conclui o Ensino médio, atualmente estou cursando Análise
 Estou estudando por fora na comunidade Devclub e ela estou aprendendo muito..
 
 
-
+---
 
 ##  🤖 Linguagem e Tecnologias
 
@@ -19,7 +19,7 @@ Estou estudando por fora na comunidade Devclub e ela estou aprendendo muito..
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 
-
+---
 <img 
     align="left" 
     alt="CSS" 
