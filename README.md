@@ -8,7 +8,7 @@ Estou estudando por fora na comunidade Devclub e ela estou aprendendo muito..
 
 ---
 
-##  🤖 Linguagem e Tecnologias
+  🤖 Linguagem e Tecnologias
 
 <img 
     align="left" 
@@ -19,7 +19,7 @@ Estou estudando por fora na comunidade Devclub e ela estou aprendendo muito..
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 
----
+
 <img 
     align="left" 
     alt="CSS" 
@@ -52,6 +52,7 @@ Estou estudando por fora na comunidade Devclub e ela estou aprendendo muito..
     src="https://github-readme-stats.vercel.app/api?username=aleavill&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
+  <br>
 <img 
     align="left" 
       alt="GitHub Stats" 
